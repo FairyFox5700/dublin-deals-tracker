@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-15T07:59:17+00:00
+Updated: 2026-10-15T08:01:18+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -79,12 +79,6 @@ Updated: 2026-10-15T07:59:17+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE FAMILY EVENT REPUBLIC OF IRELAND Stokerland: free family Halloween fun Free carousel rides, face painting and family performances as part of Dublin’s Bram Stoker Festival. Food purchases are optional and cost extra. Location: Dublin city, Co. Dublin. Venue: St Patrick’s Park, Bull Alley Street,
-
-## [Helios Floating Sauna off-peak shared session](https://heliossauna.ie/products/dun-laoghaire-floating-sauna)
-- **Category:** wellness
-- **Price:** €19.95
-- **Match score:** 6.90/10
-- **Location/details:** Coal Harbour, Dún Laoghaire, Co. Dublin
 
 ## [Shamrock Rovers home-match adult ticket](https://www.shamrockrovers.ie/first-team-tickets/)
 - **Category:** sports
