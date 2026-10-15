@@ -1,0 +1,73 @@
+{
+  "sources": [
+    {
+      "name": "West Wood Club",
+      "url": "https://westwood.ie/gyms-dublin",
+      "category": "fitness",
+      "reliability": 10,
+      "verified_offer": {
+        "title": "West Wood Club free four-day gym trial",
+        "location": "Six Dublin clubs: Aston Quay, Clontarf, Sandymount, Leopardstown, Westmanstown and Dún Laoghaire",
+        "price_eur": 0,
+        "match_regex": "free.{0,30}4-day.{0,30}trial",
+        "terms": "Four-day introductory trial; confirm current eligibility on the provider page."
+      }
+    },
+    {
+      "name": "OSLO Health",
+      "url": "https://www.oslohealth.ie/welcomeoffer/",
+      "category": "fitness",
+      "reliability": 10,
+      "verified_offer": {
+        "title": "OSLO Health first yoga, barre or Pilates class free",
+        "location": "67 Mespil Road, Dublin 4",
+        "price_eur": 0,
+        "match_regex": "TRY1",
+        "terms": "New customers; use promotional code TRY1 when booking."
+      }
+    },
+    {
+      "name": "UN1T Stillorgan",
+      "url": "https://www.un1t.com/studios/stillorgan",
+      "category": "fitness",
+      "reliability": 10,
+      "verified_offer": {
+        "title": "UN1T Stillorgan consultation, InBody scan and three classes",
+        "location": "Stillorgan Village Centre, Lower Kilmacud Road, Dublin",
+        "price_eur": 0,
+        "match_regex": "Free consultation",
+        "terms": "Introductory offer; confirm the trial window while booking."
+      }
+    },
+    {
+      "name": "Helios Floating Sauna",
+      "url": "https://heliossauna.ie/products/dun-laoghaire-floating-sauna",
+      "category": "wellness",
+      "reliability": 10,
+      "verified_offer": {
+        "title": "Helios Floating Sauna off-peak shared session",
+        "location": "Coal Harbour, Dún Laoghaire, Co. Dublin",
+        "price_eur": 19.95,
+        "match_regex": "19[.,]95",
+        "terms": "Weekday off-peak price; exact live slots and checkout terms may vary."
+      }
+    },
+    {
+      "name": "Shamrock Rovers Tickets",
+      "url": "https://www.shamrockrovers.ie/first-team-tickets/",
+      "category": "sports",
+      "reliability": 10,
+      "verified_offer": {
+        "title": "Shamrock Rovers home-match adult ticket",
+        "location": "Tallaght Stadium, Dublin 24",
+        "price_eur": 21.5,
+        "match_regex": "Adult.{0,100}20",
+        "terms": "€20 ticket plus €1.50 handling fee; match availability varies."
+      }
+    },
+    {"name": "Groupon Dublin Spa", "url": "https://www.groupon.ie/vouchers/dublin/spa", "category": "wellness", "reliability": 7},
+    {"name": "Freebie Ireland", "url": "https://freebie.ie/", "category": "entertainment", "reliability": 8},
+    {"name": "Entertainment.ie Dublin", "url": "https://entertainment.ie/events/listing/all/dublin/all/", "category": "entertainment", "reliability": 8},
+    {"name": "Visit Dublin Events", "url": "https://www.visitdublin.com/whats-on", "category": "entertainment", "reliability": 9}
+  ]
+}
