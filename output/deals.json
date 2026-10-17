@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:59:23+00:00",
+  "generated_at": "2026-10-17T11:14:39+00:00",
   "offers": [
     {
       "title": "OSLO Health first yoga, barre or Pilates class free",
@@ -184,20 +184,6 @@
       "date": null
     },
     {
-      "title": "Helios Floating Sauna off-peak shared session",
-      "category": "wellness",
-      "location": "Coal Harbour, Dún Laoghaire, Co. Dublin",
-      "price_eur": 19.95,
-      "url": "https://heliossauna.ie/products/dun-laoghaire-floating-sauna",
-      "source_reliability": 10.0,
-      "freshness": 7.0,
-      "savings": 5.0,
-      "convenience": 7.0,
-      "novelty": 5.0,
-      "terms": "Weekday off-peak price; exact live slots and checkout terms may vary.",
-      "date": null
-    },
-    {
       "title": "Shamrock Rovers home-match adult ticket",
       "category": "sports",
       "location": "Tallaght Stadium, Dublin 24",
@@ -213,6 +199,7 @@
     }
   ],
   "failures": [
+    "Helios Floating Sauna: Client error '429 Too Many Requests' for url 'https://heliossauna.ie/products/dun-laoghaire-floating-sauna'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
     "Groupon Dublin Spa: Client error '403 Forbidden' for url 'https://www.groupon.ie/vouchers/dublin/spa'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   ]
 }
