@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-17T11:14:39+00:00
+Updated: 2026-10-18T11:50:55+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -26,12 +26,6 @@ Updated: 2026-10-17T11:14:39+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE REGISTRATION REPUBLIC OF IRELAND AkiDwA: National Human Rights Symposium A free symposium on human rights and belonging in Dublin. Location: Dublin city, Co. Dublin. Venue: Irish Human Rights and Equality Commission, 16–22 Green Street, Dublin 7. When: 28–29 October 2026; the ticket listing sta
 
-## [Bríd Lyons: free Songs from the Red Line showcase](https://freebie.ie/free-events/dublin/brid-lyons-red-line-free-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE MUSIC REPUBLIC OF IRELAND Bríd Lyons: free Songs from the Red Line showcase Hear new songs created through the Red Line Book Festival’s songwriter-in-residence programme in Clondalkin. Location: Áras Chrónáin, Watery Lane, off Orchard Road, Clondalkin, Dublin 22, Co. Dublin When: Saturday 17 Oc
-
 ## [Collins Barracks: free Halloween history tours](https://freebie.ie/free-tours/dublin/collins-barracks-life-disease-death-tours-2026)
 - **Category:** entertainment
 - **Price:** Free
@@ -43,12 +37,6 @@ Updated: 2026-10-17T11:14:39+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE PARADE REPUBLIC OF IRELAND Macnas Fiáin: free Dublin Halloween parade Giant figures, music and street performance for all ages. Free and unticketed. Location: Dublin city, Co. Dublin. Route: North Great George’s Street through Great Denmark Street, Gardiner Place, Mountjoy Square and Gardiner S
-
-## [Making Faces! Free Halloween mask workshop](https://freebie.ie/free-events/dublin/collins-barracks-making-faces-free-workshop-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE FAMILY WORKSHOP REPUBLIC OF IRELAND Making Faces! Free Halloween mask workshop Make a mask inspired by the museum collections at this Bram Stoker Festival family session. Location: Dublin city, Co. Dublin. Venue: Creativity Hub, ground floor off Clarke Square, National Museum of Ireland – Colli
 
 ## [National Museum: free October archaeology tours](https://freebie.ie/free-tours/dublin/national-museum-kildare-street-october-tours-2026)
 - **Category:** entertainment
