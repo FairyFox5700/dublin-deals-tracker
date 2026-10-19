@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-18T11:50:55+00:00
+Updated: 2026-10-19T14:08:14+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -49,18 +49,6 @@ Updated: 2026-10-18T11:50:55+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT TICKETS REPUBLIC OF IRELAND Nevo Electric Vehicle Show: free tickets Explore electric vehicles at the RDS with free admission. Location: Ballsbridge, Co. Dublin. Venue: RDS Simmonscourt, Simmonscourt Road, Dublin 4. When: 7–8 November 2026, 9:30am–6pm. Entry: Advance registration required
-
-## [Open House: free Kilmainham Gaol tour](https://freebie.ie/free-tours/dublin/open-house-kilmainham-gaol-free-tour-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE GUIDED TOUR REPUBLIC OF IRELAND Open House: free Kilmainham Gaol tour A free guided visit through the prison chapel, west wing, Victorian east wing and Stonebreakers’ Yard during Open House Dublin. Location: Kilmainham, Co. Dublin. Meeting point: Kilmainham Gaol Museum, Inchicore Road, Kilmainh
-
-## [PTSB Ideal Home Show at RDS Simmonscourt](https://freebie.ie/free-events/dublin/ptsb-ideal-home-show-at-rds-simmonscourt)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE EVENT TICKETS IRELAND PTSB Ideal Home Show at RDS Simmonscourt Free ticket registration is available for a limited time Book through the official show website while the free allocation is available. A free registration link does not guarantee tickets will still be available later. Location: Bal
 
 ## [Stokerland: free family Halloween fun](https://freebie.ie/free-events/dublin/stokerland-free-family-halloween-2026)
 - **Category:** entertainment
