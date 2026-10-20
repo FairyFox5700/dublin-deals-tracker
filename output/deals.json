@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:08:14+00:00",
+  "generated_at": "2026-10-20T12:21:58+00:00",
   "offers": [
     {
       "title": "OSLO Health first yoga, barre or Pilates class free",
@@ -72,6 +72,20 @@
       "date": null
     },
     {
+      "title": "Dracula’s Disco: free family dancing in Dublin",
+      "category": "entertainment",
+      "location": "FREE EVENT Dublin Dracula’s Disco: free family dancing in Dublin A Halloween dance party for children aged 4+ and their accompanying adults. Fancy dress welcome. Venue: The Round Room at the Mansion House, Dawson Street, Dublin 2, D02 XK40. When: Monday 26 October 2026: noon–1pm or 2pm–3pm. Doors open 20 minutes before each session. Entry: Free, but tickets are required. The organiser announces ticket release through The Ark on Tuesday 20 October at 10am. Follow the official festival page for booking updates; tickets are not guaranteed. Planning: Children must be accompanied by an adult. Flashing lights and haze are used. Wheelchair access and accessible toilets are available; there is no designated quiet room. Monday 26 October 2026: noon–1pm or 2pm–3pm. Doors open 20 minutes before each session. The Round Room at the Mansion House, Dawson Street, Dublin 2, D02 XK40. Official organiser · checked 20 Oct 2026 Official event details Listing correction? Contact: hello@freebie.ie",
+      "price_eur": 0.0,
+      "url": "https://freebie.ie/free-events/dublin/draculas-disco-free-family-dublin-2026",
+      "source_reliability": 8.0,
+      "freshness": 7.0,
+      "savings": 5.0,
+      "convenience": 7.0,
+      "novelty": 5.0,
+      "terms": "FREE EVENT Dublin Dracula’s Disco: free family dancing in Dublin A Halloween dance party for children aged 4+ and their accompanying adults. Fancy dress welcome. Venue: The Round Room at the Mansion House, Dawson Street, Dublin 2, D02 XK40. When: Monday 26 October 2026: noon–1pm or 2pm–3pm. Doors open 20 minutes before each session. Entry: Free, but tickets are required. The organiser announces ticket release through The Ark on Tuesday 20 October at 10am. Follow the official festival page for bo",
+      "date": null
+    },
+    {
       "title": "Macnas Fiáin: free Dublin Halloween parade",
       "category": "entertainment",
       "location": "FREE PARADE REPUBLIC OF IRELAND Macnas Fiáin: free Dublin Halloween parade Giant figures, music and street performance for all ages. Free and unticketed. Location: Dublin city, Co. Dublin. Route: North Great George’s Street through Great Denmark Street, Gardiner Place, Mountjoy Square and Gardiner Street to Seán McDermott Street. When: Monday 26 October 2026, 7pm. Gather from 6:45pm; please do not arrive earlier. Entry: Free general viewing needs no booking. Reserved wheelchair-accessible and relaxed viewing spaces are fully allocated. Outdoor event for all ages; dress for the weather. Monday 26 October 2026, 7pm. Gather from 6:45pm; please do not arrive earlier. Dublin city, Co. Dublin. Official source · checked 18 Oct See free event Listing correction? Contact: hello@freebie.ie",
@@ -116,7 +130,7 @@
     {
       "title": "Stokerland: free family Halloween fun",
       "category": "entertainment",
-      "location": "FREE FAMILY EVENT REPUBLIC OF IRELAND Stokerland: free family Halloween fun Free carousel rides, face painting and family performances as part of Dublin’s Bram Stoker Festival. Food purchases are optional and cost extra. Location: Dublin city, Co. Dublin. Venue: St Patrick’s Park, Bull Alley Street, Dublin 8. When: 24–26 October 2026, from 11am each day; end time not published. Entry: Free and unticketed; no booking. Designed for families with children under 12; under-18s must be accompanied by an adult. Outdoor event. Relaxed session: 26 October, 11am–1pm, for visitors who benefit from quieter performances. 24–26 October 2026, from 11am each day; end time not published. St Patrick’s Park, Bull Alley Street, Dublin 8. Official source · checked 6 Oct See free event Listing correction? Contact: hello@freebie.ie",
+      "location": "FREE FAMILY EVENT REPUBLIC OF IRELAND Stokerland: free family Halloween fun Free carousel rides, face painting and family performances as part of Dublin’s Bram Stoker Festival. Food purchases are optional and cost extra. Location: Dublin city, Co. Dublin. Venue: St Patrick’s Park, Bull Alley Street, Dublin 8. When: 24–26 October 2026, from 11am each day; end time not published. Entry: Free and unticketed; no booking. Designed for families with children under 12; under-18s must be accompanied by an adult. Outdoor event. Relaxed session: 26 October, 11am–1pm, for visitors who benefit from quieter performances. 24–26 October 2026, from 11am each day; end time not published. St Patrick’s Park, Bull Alley Street, Dublin 8. Official source · checked 20 Oct 2026 See free event Listing correction? Contact: hello@freebie.ie",
       "price_eur": 0.0,
       "url": "https://freebie.ie/free-events/dublin/stokerland-free-family-halloween-2026",
       "source_reliability": 8.0,
@@ -125,6 +139,20 @@
       "convenience": 7.0,
       "novelty": 5.0,
       "terms": "FREE FAMILY EVENT REPUBLIC OF IRELAND Stokerland: free family Halloween fun Free carousel rides, face painting and family performances as part of Dublin’s Bram Stoker Festival. Food purchases are optional and cost extra. Location: Dublin city, Co. Dublin. Venue: St Patrick’s Park, Bull Alley Street, Dublin 8. When: 24–26 October 2026, from 11am each day; end time not published. Entry: Free and unticketed; no booking. Designed for families with children under 12; under-18s must be accompanied by ",
+      "date": null
+    },
+    {
+      "title": "Helios Floating Sauna off-peak shared session",
+      "category": "wellness",
+      "location": "Coal Harbour, Dún Laoghaire, Co. Dublin",
+      "price_eur": 19.95,
+      "url": "https://heliossauna.ie/products/dun-laoghaire-floating-sauna",
+      "source_reliability": 10.0,
+      "freshness": 7.0,
+      "savings": 5.0,
+      "convenience": 7.0,
+      "novelty": 5.0,
+      "terms": "Weekday off-peak price; exact live slots and checkout terms may vary.",
       "date": null
     },
     {
@@ -143,7 +171,6 @@
     }
   ],
   "failures": [
-    "Helios Floating Sauna: Client error '429 Too Many Requests' for url 'https://heliossauna.ie/products/dun-laoghaire-floating-sauna'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
     "Groupon Dublin Spa: Client error '403 Forbidden' for url 'https://www.groupon.ie/vouchers/dublin/spa'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   ]
 }

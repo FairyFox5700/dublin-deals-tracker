@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-19T14:08:14+00:00
+Updated: 2026-10-20T12:21:58+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -32,6 +32,12 @@ Updated: 2026-10-19T14:08:14+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE GUIDED TOUR REPUBLIC OF IRELAND Collins Barracks: free Halloween history tours Explore the barracks’ military history and stories of illness and medical care. Recommended for older children and adults; the subject matter includes injury and death. Location: Dublin city, Co. Dublin. Venue: Natio
 
+## [Dracula’s Disco: free family dancing in Dublin](https://freebie.ie/free-events/dublin/draculas-disco-free-family-dublin-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Dracula’s Disco: free family dancing in Dublin A Halloween dance party for children aged 4+ and their accompanying adults. Fancy dress welcome. Venue: The Round Room at the Mansion House, Dawson Street, Dublin 2, D02 XK40. When: Monday 26 October 2026: noon–1pm or 2pm–3pm. Doors op
+
 ## [Macnas Fiáin: free Dublin Halloween parade](https://freebie.ie/free-events/dublin/macnas-fiain-dublin-parade-2026)
 - **Category:** entertainment
 - **Price:** Free
@@ -55,6 +61,12 @@ Updated: 2026-10-19T14:08:14+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE FAMILY EVENT REPUBLIC OF IRELAND Stokerland: free family Halloween fun Free carousel rides, face painting and family performances as part of Dublin’s Bram Stoker Festival. Food purchases are optional and cost extra. Location: Dublin city, Co. Dublin. Venue: St Patrick’s Park, Bull Alley Street,
+
+## [Helios Floating Sauna off-peak shared session](https://heliossauna.ie/products/dun-laoghaire-floating-sauna)
+- **Category:** wellness
+- **Price:** €19.95
+- **Match score:** 6.90/10
+- **Location/details:** Coal Harbour, Dún Laoghaire, Co. Dublin
 
 ## [Shamrock Rovers home-match adult ticket](https://www.shamrockrovers.ie/first-team-tickets/)
 - **Category:** sports
