@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-20T12:21:58+00:00
+Updated: 2026-10-21T12:31:14+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -42,13 +42,13 @@ Updated: 2026-10-20T12:21:58+00:00
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE PARADE REPUBLIC OF IRELAND Macnas Fiáin: free Dublin Halloween parade Giant figures, music and street performance for all ages. Free and unticketed. Location: Dublin city, Co. Dublin. Route: North Great George’s Street through Great Denmark Street, Gardiner Place, Mountjoy Square and Gardiner S
+- **Location/details:** Photo source: bramstokerfestival.com. FREE PARADE REPUBLIC OF IRELAND Macnas Fiáin: free Dublin Halloween parade Giant figures, music and street performance for all ages. Free and unticketed. Location: Dublin city, Co. Dublin. Route: North Great George’s Street through Great Denmark Street, Gardiner
 
 ## [National Museum: free October archaeology tours](https://freebie.ie/free-tours/dublin/national-museum-kildare-street-october-tours-2026)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE GUIDED TOURS REPUBLIC OF IRELAND National Museum: free October archaeology tours Museum guides explore archaeological highlights, Viking Ireland, prehistory, saints and scholars, or Irish art history. Choose a topic from the dated official schedule. Location: Dublin city, Co. Dublin. Venue: Nat
+- **Location/details:** Photo source: source.museum.ie. FREE GUIDED TOURS REPUBLIC OF IRELAND National Museum: free October archaeology tours Museum guides explore archaeological highlights, Viking Ireland, prehistory, saints and scholars, or Irish art history. Choose a topic from the dated official schedule. Location: Dub
 
 ## [Nevo Electric Vehicle Show: free tickets](https://freebie.ie/free-events/dublin/nevo-electric-vehicle-show-free-tickets)
 - **Category:** entertainment
@@ -60,7 +60,7 @@ Updated: 2026-10-20T12:21:58+00:00
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE FAMILY EVENT REPUBLIC OF IRELAND Stokerland: free family Halloween fun Free carousel rides, face painting and family performances as part of Dublin’s Bram Stoker Festival. Food purchases are optional and cost extra. Location: Dublin city, Co. Dublin. Venue: St Patrick’s Park, Bull Alley Street,
+- **Location/details:** Event photo from a previous edition. Photo source: bramstokerfestival.com. FREE FAMILY EVENT REPUBLIC OF IRELAND Stokerland: free family Halloween fun Free carousel rides, face painting and family performances as part of Dublin’s Bram Stoker Festival. Food purchases are optional and cost extra. Loca
 
 ## [Helios Floating Sauna off-peak shared session](https://heliossauna.ie/products/dun-laoghaire-floating-sauna)
 - **Category:** wellness
