@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:31:14+00:00",
+  "generated_at": "2026-10-22T12:36:09+00:00",
   "offers": [
     {
       "title": "OSLO Health first yoga, barre or Pilates class free",
@@ -171,6 +171,7 @@
     }
   ],
   "failures": [
-    "Groupon Dublin Spa: Client error '403 Forbidden' for url 'https://www.groupon.ie/vouchers/dublin/spa'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    "Groupon Dublin Spa: Client error '403 Forbidden' for url 'https://www.groupon.ie/vouchers/dublin/spa'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "Entertainment.ie Dublin: Server error '503 Service Unavailable' for url 'https://entertainment.ie/events/listing/all/dublin/all/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
   ]
 }
