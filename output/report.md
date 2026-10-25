@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-24T11:41:39+00:00
+Updated: 2026-10-25T12:10:34+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -26,12 +26,6 @@ Updated: 2026-10-24T11:41:39+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE REGISTRATION REPUBLIC OF IRELAND AkiDwA: National Human Rights Symposium A free symposium on human rights and belonging in Dublin. Location: Dublin city, Co. Dublin. Venue: Irish Human Rights and Equality Commission, 16–22 Green Street, Dublin 7. When: 28–29 October 2026; the ticket listing sta
 
-## [Collins Barracks: free Halloween history tours](https://freebie.ie/free-tours/dublin/collins-barracks-life-disease-death-tours-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE GUIDED TOUR REPUBLIC OF IRELAND Collins Barracks: free Halloween history tours Explore the barracks’ military history and stories of illness and medical care. Recommended for older children and adults; the subject matter includes injury and death. Location: Dublin city, Co. Dublin. Venue: Natio
-
 ## [Dracula’s Disco: free family dancing in Dublin](https://freebie.ie/free-events/dublin/draculas-disco-free-family-dublin-2026)
 - **Category:** entertainment
 - **Price:** Free
@@ -43,12 +37,6 @@ Updated: 2026-10-24T11:41:39+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Photo source: bramstokerfestival.com. FREE PARADE REPUBLIC OF IRELAND Macnas Fiáin: free Dublin Halloween parade Giant figures, music and street performance for all ages. Free and unticketed. Location: Dublin city, Co. Dublin. Route: North Great George’s Street through Great Denmark Street, Gardiner
-
-## [National Museum: free October archaeology tours](https://freebie.ie/free-tours/dublin/national-museum-kildare-street-october-tours-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** Photo source: source.museum.ie. FREE GUIDED TOURS REPUBLIC OF IRELAND National Museum: free October archaeology tours Museum guides explore archaeological highlights, Viking Ireland, prehistory, saints and scholars, or Irish art history. Choose a topic from the dated official schedule. Location: Dub
 
 ## [Nevo Electric Vehicle Show: free tickets](https://freebie.ie/free-events/dublin/nevo-electric-vehicle-show-free-tickets)
 - **Category:** entertainment
