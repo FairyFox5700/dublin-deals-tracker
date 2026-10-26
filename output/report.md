@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-25T12:10:34+00:00
+Updated: 2026-10-26T13:41:30+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -49,6 +49,12 @@ Updated: 2026-10-25T12:10:34+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Event photo from a previous edition. Photo source: bramstokerfestival.com. FREE FAMILY EVENT REPUBLIC OF IRELAND Stokerland: free family Halloween fun Free carousel rides, face painting and family performances as part of Dublin’s Bram Stoker Festival. Food purchases are optional and cost extra. Loca
+
+## [Song Cycle: free singer-songwriter night at Whelan’s](https://freebie.ie/free-events/dublin/whelans-song-cycle-november-2026)
+- **Category:** entertainment
+- **Price:** €5.00
+- **Match score:** 7.25/10
+- **Location/details:** FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s Hear songwriters try ideas and share songs in Whelan’s bar. Performers can sign up with the host from 7:30pm. Venue: 25 Wexford Street, Dublin 2, D02 H527 When: 2026-11-02 · 20:00 Entry: Free entry, no ticket needed. Strictly ove
 
 ## [Helios Floating Sauna off-peak shared session](https://heliossauna.ie/products/dun-laoghaire-floating-sauna)
 - **Category:** wellness
