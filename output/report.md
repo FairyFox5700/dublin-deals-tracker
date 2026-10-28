@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-27T12:49:50+00:00
+Updated: 2026-10-28T13:38:44+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -19,12 +19,6 @@ Updated: 2026-10-27T12:49:50+00:00
 - **Price:** Free
 - **Match score:** 8.15/10
 - **Location/details:** Six Dublin clubs: Aston Quay, Clontarf, Sandymount, Leopardstown, Westmanstown and Dún Laoghaire
-
-## [AkiDwA: National Human Rights Symposium](https://freebie.ie/free-events/dublin/akidwa-national-human-rights-symposium)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE REGISTRATION REPUBLIC OF IRELAND AkiDwA: National Human Rights Symposium A free symposium on human rights and belonging in Dublin. Location: Dublin city, Co. Dublin. Venue: Irish Human Rights and Equality Commission, 16–22 Green Street, Dublin 7. When: 28–29 October 2026; the ticket listing sta
 
 ## [Dublin by Dusk: free Live Aid exhibition evening](https://freebie.ie/free-events/dublin/npa-dublin-by-dusk-live-aid-2026)
 - **Category:** entertainment
