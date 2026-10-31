@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-10-30T13:41:34+00:00
+Updated: 2026-10-31T13:10:23+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -25,12 +25,6 @@ Updated: 2026-10-30T13:41:34+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Bloody Kisses: free Halloween gig at Fibber Magees Type O Negative tribute Bloody Kisses is joined by Astro Zombies and Brake Loose for the Halloween programme. Doors are advertised for 8pm; the homepage also lists 9pm for the event. Venue: Fibber Magees main stage, 80–81 Parnell S
-
-## [Burning Bullet: free live music at Fibber Magees](https://freebie.ie/free-events/dublin/fibbers-burning-bullet-free-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Burning Bullet: free live music at Fibber Magees A classic-metal tribute set with support from Mudskipper and Night Blind Knights. The main-stage programme starts at 8pm. Venue: Fibber Magees main stage, 80–81 Parnell Street, Dublin 1 When: 2026-10-30 · 20:00 Entry: Free admission 
 
 ## [Dublin by Dusk: free Live Aid exhibition evening](https://freebie.ie/free-events/dublin/npa-dublin-by-dusk-live-aid-2026)
 - **Category:** entertainment
