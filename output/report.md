@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-01T13:53:43+00:00
+Updated: 2026-11-02T16:39:33+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -26,23 +26,11 @@ Updated: 2026-11-01T13:53:43+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Dublin by Dusk: free Live Aid exhibition evening Explore the Live Aid exhibition after normal daytime hours, with recorded music from the 1985 concerts. This is an exhibition visit, not a live gig. Venue: Meeting House Square, Temple Bar, Dublin 2, D02 WF85 When: 2026-10-29, 2026-1
 
-## [Mr Castle Blues Trio: free Sunday gig in Dublin](https://freebie.ie/free-events/dublin/fibbers-mr-castle-blues-trio-free-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Mr Castle Blues Trio: free Sunday gig in Dublin Finish the weekend with a late blues set on the main stage. The venue lists a 10:30pm start on Sunday. Venue: Fibber Magees main stage, 80–81 Parnell Street, Dublin 1 When: 2026-11-01 · 22:30 Entry: Free admission. Check age policy an
-
 ## [Nevo Electric Vehicle Show: free tickets](https://freebie.ie/free-events/dublin/nevo-electric-vehicle-show-free-tickets)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT TICKETS REPUBLIC OF IRELAND Nevo Electric Vehicle Show: free tickets Explore electric vehicles at the RDS with free admission. Location: Ballsbridge, Co. Dublin. Venue: RDS Simmonscourt, Simmonscourt Road, Dublin 4. When: 7–8 November 2026, 9:30am–6pm. Entry: Advance registration required
-
-## [Trick or Treat: free Halloween market on O’Connell Street](https://freebie.ie/free-events/dublin/dublin-trick-or-treat-main-street-market-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Trick or Treat: free Halloween market on O’Connell Street Drop into the city-centre Halloween programme for seasonal stalls, storytelling and family activities, running 1–5pm each day. Costumes are welcome. Venue: O’Connell Street, Dublin city centre When: 2026-10-30, 2026-10-31, 2
 
 ## [Song Cycle: free singer-songwriter night at Whelan’s](https://freebie.ie/free-events/dublin/whelans-song-cycle-november-2026)
 - **Category:** entertainment
