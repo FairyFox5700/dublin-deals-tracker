@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-02T16:39:33+00:00
+Updated: 2026-11-03T14:44:12+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -31,12 +31,6 @@ Updated: 2026-11-02T16:39:33+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT TICKETS REPUBLIC OF IRELAND Nevo Electric Vehicle Show: free tickets Explore electric vehicles at the RDS with free admission. Location: Ballsbridge, Co. Dublin. Venue: RDS Simmonscourt, Simmonscourt Road, Dublin 4. When: 7–8 November 2026, 9:30am–6pm. Entry: Advance registration required
-
-## [Song Cycle: free singer-songwriter night at Whelan’s](https://freebie.ie/free-events/dublin/whelans-song-cycle-november-2026)
-- **Category:** entertainment
-- **Price:** €5.00
-- **Match score:** 7.25/10
-- **Location/details:** FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s Hear songwriters try ideas and share songs in Whelan’s bar. Performers can sign up with the host from 7:30pm. Venue: 25 Wexford Street, Dublin 2, D02 H527 When: 2026-11-02 · 20:00 Entry: Free entry, no ticket needed. Strictly ove
 
 ## [Helios Floating Sauna off-peak shared session](https://heliossauna.ie/products/dun-laoghaire-floating-sauna)
 - **Category:** wellness
