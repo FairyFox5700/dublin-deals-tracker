@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-05T15:00:27+00:00
+Updated: 2026-11-06T14:40:52+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
