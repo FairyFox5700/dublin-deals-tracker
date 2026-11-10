@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-09T16:57:03+00:00
+Updated: 2026-11-10T15:17:14+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -73,6 +73,12 @@ Updated: 2026-11-09T16:57:03+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin SIGNS Weekender: free live music and DJs at The Circular Two free-ticketed nights of soul, R&B, experimental pop and DJs, featuring Melina Malone, Ana Palindrome, TR-ONE and more. Venue: The Circular, 536–538 South Circular Road, Dublin 8, D08 CC02 When: Friday 13 and Saturday 14 N
+
+## [SoCircular Christmas Market at Dublin City Hall](https://freebie.ie/free-events/dublin/dublin-socircular-christmas-market-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin SoCircular Christmas Market at Dublin City Hall Browse local makers and reuse-focused gifts in City Hall, with choir performances during the day. Admission is free; purchases are optional. Venue: Dublin City Hall, Dame Street, Dublin 2, Co. Dublin When: Sunday 6 December 2026, 11:0
 
 ## [Swords Castle Christmas Market: free entry](https://freebie.ie/free-events/dublin/swords-castle-christmas-market-2026)
 - **Category:** entertainment
