@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-11T14:47:03+00:00
+Updated: 2026-11-12T15:39:32+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -26,17 +26,11 @@ Updated: 2026-11-11T14:47:03+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin African Gospel Choir Dublin: free performance at IMMA A seasonal choir performance welcoming visitors of all ages. Venue: IMMA Reception, Royal Hospital Kilmainham, Dublin 8, D08 FW31 When: Saturday 12 December 2026, 14:00–15:00. Entry: Free; all welcome; no booking required. Drop-
 
-## [AIB Portrait Prize 2026](https://freebie.ie/free-events/dublin/aib-portrait-prize-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** Evanna Devine, Frank Flannelly, Farmer from Easky, Co Sligo, 6 April 2026. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Portrait Prize 2026 See the shortlisted contemporary portraits by artists from across Ireland and Irish artists working abroad. Venue: Portrait Gallery 
-
 ## [AIB Young Portrait Prize 2026](https://freebie.ie/free-events/dublin/aib-young-portrait-prize-2026)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** Michael Ryan (age 11), My Grandad’s Smile. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Young Portrait Prize 2026 Explore shortlisted portraits by artists aged 18 and under. Families can see the young artists’ work alongside the adult Portrait Prize exhibition. Venue: Por
+- **Location/details:** Michael Ryan (age 11), My Grandad’s Smile. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Young Portrait Prize 2026 Pair this display with the adult Portrait Prize in the same gallery and compare how younger artists approach faces and character. The exhibitors are aged 18 a
 
 ## [Dublin by Dusk: free Live Aid exhibition evening](https://freebie.ie/free-events/dublin/npa-dublin-by-dusk-live-aid-2026)
 - **Category:** entertainment
@@ -50,17 +44,17 @@ Updated: 2026-11-11T14:47:03+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Festive Explorer: free family art workshops at IMMA Explore art together and make a festive piece to take home. Venue: Matheson Creativity Hub, IMMA, Royal Hospital Kilmainham, Dublin 8, D08 FW31 When: Listed Sundays 15, 22, 29 November; 6, 13, 27 December 2026, 14:00–16:00. Entry:
 
+## [Fidelio Trio: a free lunchtime concert in Glasnevin](https://freebie.ie/free-events/dublin/botanic-fidelio-trio-nov28-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Fidelio Trio: a free lunchtime concert in Glasnevin Hear Steve Reich’s Different Trains at the National Botanic Gardens, with the Fidelio Trio joined by Elizabeth Cooney and Fiona Bonds. This lunchtime performance is the free event within a festival that also includes paid concerts
+
 ## [Jan Steen: Sacred and Profane](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Jan Steen (1626–1679), The Marriage Feast at Cana, 1665–1670. Photo, National Gallery of Ireland. FREE EVENT Dublin Jan Steen: Sacred and Profane Look for The Village School and The Marriage Feast at Cana alongside international loans in this exhibition marking 400 years since the Dutch painter’s bi
-
-## [Niall Stokes and Donal Fallon: free talk on 1980s Irish music](https://freebie.ie/free-events/dublin/nli-stokes-fallon-music-nov17-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Niall Stokes and Donal Fallon: free talk on 1980s Irish music A conversation about Ireland's music scene in the 1980s, presented by the National Library. Venue: Joly Lecture Theatre, National Library of Ireland, 7–8 Kildare Street, Dublin 2, D02 P638 When: Tuesday 17 November 2026,
 
 ## [Shooting Stars Choir: free Christmas music at Dublin Airport](https://freebie.ie/free-events/dublin/shooting-stars-choir-dublin-airport-dec20-2026)
 - **Category:** entertainment
