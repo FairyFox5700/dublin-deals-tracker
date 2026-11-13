@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-12T15:39:32+00:00
+Updated: 2026-11-13T14:58:20+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -50,6 +50,12 @@ Updated: 2026-11-12T15:39:32+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Fidelio Trio: a free lunchtime concert in Glasnevin Hear Steve Reich’s Different Trains at the National Botanic Gardens, with the Fidelio Trio joined by Elizabeth Cooney and Fiona Bonds. This lunchtime performance is the free event within a festival that also includes paid concerts
 
+## [Free Armistice weekend tours at Collins Barracks](https://freebie.ie/free-tours/dublin/dublin-armistice-collins-barracks-tours-nov14-15-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE TOUR Dublin Free Armistice weekend tours at Collins Barracks Choose a World War One tour on Saturday or Sunday; Sunday’s later tour instead follows the decade from 1913 to 1923. Meet at museum reception rather than waiting in an exhibition room. Places are first come, first served, so leave tim
+
 ## [Jan Steen: Sacred and Profane](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
 - **Category:** entertainment
 - **Price:** Free
@@ -73,6 +79,12 @@ Updated: 2026-11-12T15:39:32+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin SoCircular Christmas Market at Dublin City Hall Browse local makers and reuse-focused gifts in City Hall, with choir performances during the day. Admission is free; purchases are optional. Venue: Dublin City Hall, Dame Street, Dublin 2, Co. Dublin When: Sunday 6 December 2026, 11:0
+
+## [Write Time: free author conversations in Swords](https://freebie.ie/free-events/dublin/swords-write-time-carnegie-nov14-15-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Write Time: free author conversations in Swords Pick an individual author conversation rather than treating this as one continuous show. Saturday includes Rónán Hession, Rob Doyle, Emma Dabiri and Marie Cassidy; Sunday includes Katriona O’Sullivan and Roddy Doyle. Reserve the sessi
 
 ## [Swords Castle Christmas Market: free entry](https://freebie.ie/free-events/dublin/swords-castle-christmas-market-2026)
 - **Category:** entertainment
