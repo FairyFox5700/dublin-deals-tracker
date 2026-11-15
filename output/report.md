@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-14T13:51:29+00:00
+Updated: 2026-11-15T14:24:41+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -67,12 +67,6 @@ Updated: 2026-11-14T13:51:29+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Shooting Stars Choir: free Christmas music at Dublin Airport Dunshaughlin’s Shooting Stars Choir welcomes people home with a festive performance in Terminal 2 Arrivals. Venue: Dublin Airport, Terminal 2 Arrivals, Co. Dublin When: 20 December 2026 · 12:30–14:00 Entry: Free performan
-
-## [SIGNS Weekender: free live music and DJs at The Circular](https://freebie.ie/free-events/dublin/dublin-signs-weekender-circular-nov13-14-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin SIGNS Weekender: free live music and DJs at The Circular Two free-ticketed nights of soul, R&B, experimental pop and DJs, featuring Melina Malone, Ana Palindrome, TR-ONE and more. Venue: The Circular, 536–538 South Circular Road, Dublin 8, D08 CC02 When: Friday 13 and Saturday 14 N
 
 ## [SoCircular Christmas Market at Dublin City Hall](https://freebie.ie/free-events/dublin/dublin-socircular-christmas-market-2026)
 - **Category:** entertainment
