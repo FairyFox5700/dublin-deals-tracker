@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-15T14:24:41+00:00
+Updated: 2026-11-16T16:34:06+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -50,17 +50,17 @@ Updated: 2026-11-15T14:24:41+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Fidelio Trio: a free lunchtime concert in Glasnevin Hear Steve Reich’s Different Trains at the National Botanic Gardens, with the Fidelio Trio joined by Elizabeth Cooney and Fiona Bonds. This lunchtime performance is the free event within a festival that also includes paid concerts
 
-## [Free Armistice weekend tours at Collins Barracks](https://freebie.ie/free-tours/dublin/dublin-armistice-collins-barracks-tours-nov14-15-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE TOUR Dublin Free Armistice weekend tours at Collins Barracks Choose a World War One tour on Saturday or Sunday; Sunday’s later tour instead follows the decade from 1913 to 1923. Meet at museum reception rather than waiting in an exhibition room. Places are first come, first served, so leave tim
-
 ## [Jan Steen: Sacred and Profane](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Jan Steen (1626–1679), The Marriage Feast at Cana, 1665–1670. Photo, National Gallery of Ireland. FREE EVENT Dublin Jan Steen: Sacred and Profane Look for The Village School and The Marriage Feast at Cana alongside international loans in this exhibition marking 400 years since the Dutch painter’s bi
+
+## [Kinda Maiden: free Wednesday gig at Fibber Magees](https://freebie.ie/free-events/dublin/fibber-kinda-maiden-nov18-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Kinda Maiden: free Wednesday gig at Fibber Magees An Iron Maiden tribute night brings Kinda Maiden to Fibber Magees’ main stage. Venue: Fibber Magees, Parnell Street, Dublin When: 18 November 2026 · 22:00. Finish not published. Entry: Free entry advertised by the venue. Check age, 
 
 ## [Shooting Stars Choir: free Christmas music at Dublin Airport](https://freebie.ie/free-events/dublin/shooting-stars-choir-dublin-airport-dec20-2026)
 - **Category:** entertainment
@@ -74,11 +74,11 @@ Updated: 2026-11-15T14:24:41+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin SoCircular Christmas Market at Dublin City Hall Browse local makers and reuse-focused gifts in City Hall, with choir performances during the day. Admission is free; purchases are optional. Venue: Dublin City Hall, Dame Street, Dublin 2, Co. Dublin When: Sunday 6 December 2026, 11:0
 
-## [Write Time: free author conversations in Swords](https://freebie.ie/free-events/dublin/swords-write-time-carnegie-nov14-15-2026)
+## [Song Cycle: free singer-songwriter night at Whelan’s](https://freebie.ie/free-events/dublin/whelans-song-cycle-november-2026)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Write Time: free author conversations in Swords Pick an individual author conversation rather than treating this as one continuous show. Saturday includes Rónán Hession, Rob Doyle, Emma Dabiri and Marie Cassidy; Sunday includes Katriona O’Sullivan and Roddy Doyle. Reserve the sessi
+- **Location/details:** FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s Hear songwriters try ideas and share songs in Whelan’s bar. Performers can sign up with the host from 7:30pm. Venue: 25 Wexford Street, Dublin 2, D02 H527 When: Mondays 16, 23 and 30 November 2026 · 20:00. Finish not published. E
 
 ## [Swords Castle Christmas Market: free entry](https://freebie.ie/free-events/dublin/swords-castle-christmas-market-2026)
 - **Category:** entertainment
