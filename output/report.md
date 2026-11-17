@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-16T16:34:06+00:00
+Updated: 2026-11-17T16:32:38+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -38,17 +38,29 @@ Updated: 2026-11-16T16:34:06+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Dublin by Dusk: free Live Aid exhibition evening Explore the Live Aid exhibition after normal daytime hours, with recorded music from the 1985 concerts. This is an exhibition visit, not a live gig. Venue: National Photographic Archive, Meeting House Square, Temple Bar, Dublin 2, D0
 
+## [Enniscorthy Community College Christmas Market](https://freebie.ie/free-events/wexford/enniscorthy-community-college-christmas-market-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Wexford Enniscorthy Community College Christmas Market A three-hour evening market gives you a shorter alternative to a full Christmas day out. Browse local crafts, gifts and festive food at Enniscorthy Community College, with free admission and purchases paid for separately. The event al
+
 ## [Festive Explorer: free family art workshops at IMMA](https://freebie.ie/free-events/dublin/imma-festive-explorer-family-2026)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Festive Explorer: free family art workshops at IMMA Explore art together and make a festive piece to take home. Venue: Matheson Creativity Hub, IMMA, Royal Hospital Kilmainham, Dublin 8, D08 FW31 When: Listed Sundays 15, 22, 29 November; 6, 13, 27 December 2026, 14:00–16:00. Entry:
+- **Location/details:** FREE EVENT Dublin Festive Explorer: free family art workshops at IMMA Explore art together and make a festive piece to take home. Venue: Matheson Creativity Hub, IMMA, Royal Hospital Kilmainham, Dublin 8, D08 FW31 When: Sundays 15, 22 and 29 November; 6, 13 and 20 December 2026, 14:00–16:00, as list
 
 ## [Fidelio Trio: a free lunchtime concert in Glasnevin](https://freebie.ie/free-events/dublin/botanic-fidelio-trio-nov28-2026)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Fidelio Trio: a free lunchtime concert in Glasnevin Hear Steve Reich’s Different Trains at the National Botanic Gardens, with the Fidelio Trio joined by Elizabeth Cooney and Fiona Bonds. This lunchtime performance is the free event within a festival that also includes paid concerts
+
+## [Free ballroom lesson and tea dance in Mulhuddart](https://freebie.ie/free-events/dublin/mulhuddart-ballroom-tea-dance-nov21-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Free ballroom lesson and tea dance in Mulhuddart Swap a market browse for an afternoon on the dance floor: this Inclusion Week session combines ballroom lessons with a tea dance at Mulhuddart Community Centre. The programme gives a three-hour slot, but does not say whether beginner
 
 ## [Jan Steen: Sacred and Profane](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
 - **Category:** entertainment
@@ -78,7 +90,7 @@ Updated: 2026-11-16T16:34:06+00:00
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s Hear songwriters try ideas and share songs in Whelan’s bar. Performers can sign up with the host from 7:30pm. Venue: 25 Wexford Street, Dublin 2, D02 H527 When: Mondays 16, 23 and 30 November 2026 · 20:00. Finish not published. E
+- **Location/details:** FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s A songwriter night in Whelan’s front-window bar, hosted by Tony McLoughlin. If you want to perform, ask for Tony from 7:30pm; listeners need no ticket. The event is strictly for over-18s. Venue: 25 Wexford Street, Dublin 2, D02 H
 
 ## [Swords Castle Christmas Market: free entry](https://freebie.ie/free-events/dublin/swords-castle-christmas-market-2026)
 - **Category:** entertainment
