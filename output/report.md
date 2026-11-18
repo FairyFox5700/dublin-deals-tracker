@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-17T16:32:38+00:00
+Updated: 2026-11-18T16:01:57+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -96,7 +96,7 @@ Updated: 2026-11-17T16:32:38+00:00
 - **Category:** entertainment
 - **Price:** €5.00
 - **Match score:** 7.25/10
-- **Location/details:** FREE EVENT Dublin Swords Castle Christmas Market: free entry Browse local craft stalls and festive food traders in Swords Castle. Entry is free; shopping, food and Santa visits are optional paid extras. Venue: Swords Castle, Swords, Co. Dublin When: 27 November 2026, 3–7pm; 28–29 November and 5–6 De
+- **Location/details:** FREE EVENT Dublin Swords Castle Christmas Market: free entry Browse local craft stalls and festive food traders in Swords Castle. Entry is free; shopping, food and Santa visits are optional paid extras. Venue: Swords Castle, Swords, Co. Dublin When: 27 November 2026, 15:00–19:00; 28–29 November and 
 
 ## [Helios Floating Sauna off-peak shared session](https://heliossauna.ie/products/dun-laoghaire-floating-sauna)
 - **Category:** wellness
