@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-18T16:01:57+00:00
+Updated: 2026-11-19T16:08:41+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -67,12 +67,6 @@ Updated: 2026-11-18T16:01:57+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Jan Steen (1626–1679), The Marriage Feast at Cana, 1665–1670. Photo, National Gallery of Ireland. FREE EVENT Dublin Jan Steen: Sacred and Profane Look for The Village School and The Marriage Feast at Cana alongside international loans in this exhibition marking 400 years since the Dutch painter’s bi
-
-## [Kinda Maiden: free Wednesday gig at Fibber Magees](https://freebie.ie/free-events/dublin/fibber-kinda-maiden-nov18-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Kinda Maiden: free Wednesday gig at Fibber Magees An Iron Maiden tribute night brings Kinda Maiden to Fibber Magees’ main stage. Venue: Fibber Magees, Parnell Street, Dublin When: 18 November 2026 · 22:00. Finish not published. Entry: Free entry advertised by the venue. Check age, 
 
 ## [Shooting Stars Choir: free Christmas music at Dublin Airport](https://freebie.ie/free-events/dublin/shooting-stars-choir-dublin-airport-dec20-2026)
 - **Category:** entertainment
