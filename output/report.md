@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-19T16:08:41+00:00
+Updated: 2026-11-20T15:49:27+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -32,11 +32,29 @@ Updated: 2026-11-19T16:08:41+00:00
 - **Match score:** 7.75/10
 - **Location/details:** Michael Ryan (age 11), My Grandad’s Smile. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Young Portrait Prize 2026 Pair this display with the adult Portrait Prize in the same gallery and compare how younger artists approach faces and character. The exhibitors are aged 18 a
 
+## [Art and babies: free gallery tour at Draíocht](https://freebie.ie/free-events/dublin/draiocht-art-babies-gallery-tour-dec8-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Art and babies: free gallery tour at Draíocht A short gallery visit designed around parents, carers and non-walking babies. Feeding and cuddling are welcome; babies are not expected to stay quiet. Book for your baby and accompanying adults rather than treating this as a general dro
+
+## [Christmas Constellations: free family art at Draíocht](https://freebie.ie/free-events/dublin/draiocht-christmas-constellations-dec12-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Christmas Constellations: free family art at Draíocht Make winter stars and constellations together in a one-hour workshop. Choose one of the two sessions and bring an adult who will join in with the child. The separately advertised theatre show is optional and is not included as a
+
 ## [Dublin by Dusk: free Live Aid exhibition evening](https://freebie.ie/free-events/dublin/npa-dublin-by-dusk-live-aid-2026)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Dublin by Dusk: free Live Aid exhibition evening Explore the Live Aid exhibition after normal daytime hours, with recorded music from the 1985 concerts. This is an exhibition visit, not a live gig. Venue: National Photographic Archive, Meeting House Square, Temple Bar, Dublin 2, D0
+
+## [Elf Prints and Patterns: free family workshop at Draíocht](https://freebie.ie/free-events/dublin/draiocht-elf-prints-patterns-dec19-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Elf Prints and Patterns: free family workshop at Draíocht Try inks and mono-printing to make an elf-themed artwork. Choose the early or late one-hour session, wear clothes suitable for messy materials and plan to take part alongside your child. Booking is required even though the t
 
 ## [Enniscorthy Community College Christmas Market](https://freebie.ie/free-events/wexford/enniscorthy-community-college-christmas-market-2026)
 - **Category:** entertainment
@@ -62,11 +80,23 @@ Updated: 2026-11-19T16:08:41+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Free ballroom lesson and tea dance in Mulhuddart Swap a market browse for an afternoon on the dance floor: this Inclusion Week session combines ballroom lessons with a tea dance at Mulhuddart Community Centre. The programme gives a three-hour slot, but does not say whether beginner
 
+## [Free photography workshop for parents and educators at Draíocht](https://freebie.ie/free-events/dublin/draiocht-parent-educator-photography-feb20-2027)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Free photography workshop for parents and educators at Draíocht Explore framing and layering images with artist-educator Liadh Connolly. No photography experience or special equipment is needed, and materials are provided. This workshop is for adults who work with children or young
+
 ## [Jan Steen: Sacred and Profane](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Jan Steen (1626–1679), The Marriage Feast at Cana, 1665–1670. Photo, National Gallery of Ireland. FREE EVENT Dublin Jan Steen: Sacred and Profane Look for The Village School and The Marriage Feast at Cana alongside international loans in this exhibition marking 400 years since the Dutch painter’s bi
+
+## [Sharon Murphy: free photography exhibition at Draíocht](https://freebie.ie/free-events/dublin/draiocht-sharon-murphy-mise-en-abyme-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Sharon Murphy: free photography exhibition at Draíocht Look at how a photograph changes familiar places: Murphy’s images use empty stages, carousels and theatrical spaces. This is a gallery visit, not a theatre performance, so there is no show ticket to buy. Allow time to look clos
 
 ## [Shooting Stars Choir: free Christmas music at Dublin Airport](https://freebie.ie/free-events/dublin/shooting-stars-choir-dublin-airport-dec20-2026)
 - **Category:** entertainment
@@ -86,20 +116,8 @@ Updated: 2026-11-19T16:08:41+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s A songwriter night in Whelan’s front-window bar, hosted by Tony McLoughlin. If you want to perform, ask for Tony from 7:30pm; listeners need no ticket. The event is strictly for over-18s. Venue: 25 Wexford Street, Dublin 2, D02 H
 
-## [Swords Castle Christmas Market: free entry](https://freebie.ie/free-events/dublin/swords-castle-christmas-market-2026)
+## [We Share This Space: free student photography exhibition](https://freebie.ie/free-events/dublin/draiocht-we-share-this-space-2026)
 - **Category:** entertainment
-- **Price:** €5.00
-- **Match score:** 7.25/10
-- **Location/details:** FREE EVENT Dublin Swords Castle Christmas Market: free entry Browse local craft stalls and festive food traders in Swords Castle. Entry is free; shopping, food and Santa visits are optional paid extras. Venue: Swords Castle, Swords, Co. Dublin When: 27 November 2026, 15:00–19:00; 28–29 November and 
-
-## [Helios Floating Sauna off-peak shared session](https://heliossauna.ie/products/dun-laoghaire-floating-sauna)
-- **Category:** wellness
-- **Price:** €19.95
-- **Match score:** 6.90/10
-- **Location/details:** Coal Harbour, Dún Laoghaire, Co. Dublin
-
-## [Shamrock Rovers home-match adult ticket](https://www.shamrockrovers.ie/first-team-tickets/)
-- **Category:** sports
-- **Price:** €21.50
-- **Match score:** 6.90/10
-- **Location/details:** Tallaght Stadium, Dublin 24
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin We Share This Space: free student photography exhibition See how Coolmine Community School students responded to Sharon Murphy’s photography through workshops with Andrew Carson. Pair the two exhibitions for a local perspective on the same ideas: the students’ work is their own res
