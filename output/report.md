@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-21T14:58:55+00:00
+Updated: 2026-11-22T14:56:59+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -74,12 +74,6 @@ Updated: 2026-11-21T14:58:55+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Fidelio Trio: a free lunchtime concert in Glasnevin Hear Steve Reich’s Different Trains at the National Botanic Gardens, with the Fidelio Trio joined by Elizabeth Cooney and Fiona Bonds. This lunchtime performance is the free event within a festival that also includes paid concerts
 
-## [Free ballroom lesson and tea dance in Mulhuddart](https://freebie.ie/free-events/dublin/mulhuddart-ballroom-tea-dance-nov21-2026)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Free ballroom lesson and tea dance in Mulhuddart Swap a market browse for an afternoon on the dance floor: this Inclusion Week session combines ballroom lessons with a tea dance at Mulhuddart Community Centre. The programme gives a three-hour slot, but does not say whether beginner
-
 ## [Free photography workshop for parents and educators at Draíocht](https://freebie.ie/free-events/dublin/draiocht-parent-educator-photography-feb20-2027)
 - **Category:** entertainment
 - **Price:** Free
@@ -121,3 +115,9 @@ Updated: 2026-11-21T14:58:55+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin We Share This Space: free student photography exhibition See how Coolmine Community School students responded to Sharon Murphy’s photography through workshops with Andrew Carson. Pair the two exhibitions for a local perspective on the same ideas: the students’ work is their own res
+
+## [Swords Castle Christmas Market: free entry](https://freebie.ie/free-events/dublin/swords-castle-christmas-market-2026)
+- **Category:** entertainment
+- **Price:** €5.00
+- **Match score:** 7.25/10
+- **Location/details:** FREE EVENT Dublin Swords Castle Christmas Market: free entry Browse local craft stalls and festive food traders in Swords Castle. Entry is free; shopping, food and Santa visits are optional paid extras. Venue: Swords Castle, Swords, Co. Dublin When: 27 November 2026, 15:00–19:00; 28–29 November and 
