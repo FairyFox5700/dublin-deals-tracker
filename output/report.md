@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-22T14:56:59+00:00
+Updated: 2026-11-23T18:50:19+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -26,11 +26,17 @@ Updated: 2026-11-22T14:56:59+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin African Gospel Choir Dublin: free performance at IMMA A seasonal choir performance welcoming visitors of all ages. Venue: IMMA Reception, Royal Hospital Kilmainham, Dublin 8, D08 FW31 When: Saturday 12 December 2026, 14:00–15:00. Entry: Free; all welcome; no booking required. Drop-
 
-## [AIB Young Portrait Prize 2026](https://freebie.ie/free-events/dublin/aib-young-portrait-prize-2026)
+## [AIB Portrait Prize 2026: Free Art Exhibition in Dublin](https://freebie.ie/free-events/dublin/aib-portrait-prize-2026)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** Michael Ryan (age 11), My Grandad’s Smile. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Young Portrait Prize 2026 Pair this display with the adult Portrait Prize in the same gallery and compare how younger artists approach faces and character. The exhibitors are aged 18 a
+- **Location/details:** Evanna Devine, Frank Flannelly, Farmer from Easky, Co Sligo, 6 April 2026. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Portrait Prize 2026: Free Art Exhibition in Dublin Explore free contemporary art in Dublin at the AIB Portrait Prize 2026, showing portraits by artists 
+
+## [AIB Young Portrait Prize 2026: Free Dublin Art Exhibition](https://freebie.ie/free-events/dublin/aib-young-portrait-prize-2026)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** Michael Ryan (age 11), My Grandad’s Smile. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Young Portrait Prize 2026: Free Dublin Art Exhibition See free art in Dublin at the AIB Young Portrait Prize 2026 in the National Gallery of Ireland. Discover portraits created by youn
 
 ## [Art and babies: free gallery tour at Draíocht](https://freebie.ie/free-events/dublin/draiocht-art-babies-gallery-tour-dec8-2026)
 - **Category:** entertainment
@@ -80,11 +86,11 @@ Updated: 2026-11-22T14:56:59+00:00
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin Free photography workshop for parents and educators at Draíocht Explore framing and layering images with artist-educator Liadh Connolly. No photography experience or special equipment is needed, and materials are provided. This workshop is for adults who work with children or young
 
-## [Jan Steen: Sacred and Profane](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
+## [Jan Steen: Sacred and Profane | Free Dublin Art Exhibition](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** Jan Steen (1626–1679), The Marriage Feast at Cana, 1665–1670. Photo, National Gallery of Ireland. FREE EVENT Dublin Jan Steen: Sacred and Profane Look for The Village School and The Marriage Feast at Cana alongside international loans in this exhibition marking 400 years since the Dutch painter’s bi
+- **Location/details:** Jan Steen (1626–1679), The Marriage Feast at Cana, 1665–1670. Photo, National Gallery of Ireland. FREE EVENT Dublin Jan Steen: Sacred and Profane | Free Dublin Art Exhibition Discover a free art exhibition in Dublin at the National Gallery of Ireland: Jan Steen’s Sacred and Profane brings together T
 
 ## [Sharon Murphy: free photography exhibition at Draíocht](https://freebie.ie/free-events/dublin/draiocht-sharon-murphy-mise-en-abyme-2026)
 - **Category:** entertainment
@@ -115,9 +121,3 @@ Updated: 2026-11-22T14:56:59+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** FREE EVENT Dublin We Share This Space: free student photography exhibition See how Coolmine Community School students responded to Sharon Murphy’s photography through workshops with Andrew Carson. Pair the two exhibitions for a local perspective on the same ideas: the students’ work is their own res
-
-## [Swords Castle Christmas Market: free entry](https://freebie.ie/free-events/dublin/swords-castle-christmas-market-2026)
-- **Category:** entertainment
-- **Price:** €5.00
-- **Match score:** 7.25/10
-- **Location/details:** FREE EVENT Dublin Swords Castle Christmas Market: free entry Browse local craft stalls and festive food traders in Swords Castle. Entry is free; shopping, food and Santa visits are optional paid extras. Venue: Swords Castle, Swords, Co. Dublin When: 27 November 2026, 15:00–19:00; 28–29 November and 
