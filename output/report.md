@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-24T18:26:27+00:00
+Updated: 2026-11-25T17:40:55+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -20,11 +20,11 @@ Updated: 2026-11-24T18:26:27+00:00
 - **Match score:** 8.15/10
 - **Location/details:** Six Dublin clubs: Aston Quay, Clontarf, Sandymount, Leopardstown, Westmanstown and Dún Laoghaire
 
-## [African Gospel Choir Dublin: free performance at IMMA](https://freebie.ie/free-events/dublin/imma-african-gospel-choir-december-2026)
+## [African Gospel Choir Dublin: free performance at IMMA](https://commons.wikimedia.org/wiki/File:RHKilmainhan.jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin African Gospel Choir Dublin: free performance at IMMA A seasonal choir performance welcoming visitors of all ages. Venue: IMMA Reception, Royal Hospital Kilmainham, Dublin 8, D08 FW31 When: Saturday 12 December 2026, 14:00–15:00. Entry: Free; all welcome; no booking required. Drop-
+- **Location/details:** Location photograph · Royal Hospital Kilmainham, home of IMMA. · William Murphy · CC BY-SA 2.0 · resized · Photo source · Licence FREE EVENT Dublin African Gospel Choir Dublin: free performance at IMMA A seasonal choir performance welcoming visitors of all ages. Venue: IMMA Reception, Royal Hospital
 
 ## [AIB Portrait Prize 2026: Free Art Exhibition in Dublin](https://freebie.ie/free-events/dublin/aib-portrait-prize-2026)
 - **Category:** entertainment
@@ -38,53 +38,53 @@ Updated: 2026-11-24T18:26:27+00:00
 - **Match score:** 7.75/10
 - **Location/details:** Michael Ryan (age 11), My Grandad’s Smile. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Young Portrait Prize 2026: Free Dublin Art Exhibition See free art in Dublin at the AIB Young Portrait Prize 2026 in the National Gallery of Ireland. Discover portraits created by youn
 
-## [Art and babies: free gallery tour at Draíocht](https://freebie.ie/free-events/dublin/draiocht-art-babies-gallery-tour-dec8-2026)
+## [Art and babies: free gallery tour at Draíocht](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Art and babies: free gallery tour at Draíocht A short gallery visit designed around parents, carers and non-walking babies. Feeding and cuddling are welcome; babies are not expected to stay quiet. Book for your baby and accompanying adults rather than treating this as a general dro
+- **Location/details:** Location photograph · Draíocht Arts Centre in Blanchardstown, Dublin 15. · Darren J. Prior · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin Art and babies: free gallery tour at Draíocht A short gallery visit designed around parents, carers and non-walking babies. Feeding and cuddl
 
-## [Christmas Constellations: free family art at Draíocht](https://freebie.ie/free-events/dublin/draiocht-christmas-constellations-dec12-2026)
+## [Christmas Constellations: free family art at Draíocht](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Christmas Constellations: free family art at Draíocht Make winter stars and constellations together in a one-hour workshop. Choose one of the two sessions and bring an adult who will join in with the child. The separately advertised theatre show is optional and is not included as a
+- **Location/details:** Location photograph · Draíocht Arts Centre in Blanchardstown, Dublin 15. · Darren J. Prior · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin Christmas Constellations: free family art at Draíocht Make winter stars and constellations together in a one-hour workshop. Choose one of the
 
-## [Dublin by Dusk: free Live Aid exhibition evening](https://freebie.ie/free-events/dublin/npa-dublin-by-dusk-live-aid-2026)
+## [Dublin by Dusk: free Live Aid exhibition evening](https://commons.wikimedia.org/wiki/File:National_Photographic_Archive,_Dublin.JPG)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Dublin by Dusk: free Live Aid exhibition evening Explore the Live Aid exhibition after normal daytime hours, with recorded music from the 1985 concerts. This is an exhibition visit, not a live gig. Venue: National Photographic Archive, Meeting House Square, Temple Bar, Dublin 2, D0
+- **Location/details:** The National Photographic Archive in Temple Bar, Dublin. · DubhEire · CC0 · resized · Photo source · Licence FREE EVENT Dublin Dublin by Dusk: free Live Aid exhibition evening Explore the Live Aid exhibition after normal daytime hours, with recorded music from the 1985 concerts. This is an exhibitio
 
-## [Elf Prints and Patterns: free family workshop at Draíocht](https://freebie.ie/free-events/dublin/draiocht-elf-prints-patterns-dec19-2026)
+## [Elf Prints and Patterns: free family workshop at Draíocht](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Elf Prints and Patterns: free family workshop at Draíocht Try inks and mono-printing to make an elf-themed artwork. Choose the early or late one-hour session, wear clothes suitable for messy materials and plan to take part alongside your child. Booking is required even though the t
+- **Location/details:** Location photograph · Draíocht Arts Centre in Blanchardstown, Dublin 15. · Darren J. Prior · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin Elf Prints and Patterns: free family workshop at Draíocht Try inks and mono-printing to make an elf-themed artwork. Choose the early or late 
 
 ## [Enniscorthy Community College Christmas Market](https://freebie.ie/free-events/wexford/enniscorthy-community-college-christmas-market-2026)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Wexford Enniscorthy Community College Christmas Market A three-hour evening market gives you a shorter alternative to a full Christmas day out. Browse local crafts, gifts and festive food at Enniscorthy Community College, with free admission and purchases paid for separately. The event al
+- **Location/details:** College-supplied fundraising poster. Market: Thursday 3 December 2026, 5–8pm; free entry, optional donations. FREE EVENT Wexford Enniscorthy Community College Christmas Market Browse local crafts, gifts and festive food at Enniscorthy Community College on Thursday 3 December, 5–8pm. Look out for Oll
 
-## [Festive Explorer: free family art workshops at IMMA](https://freebie.ie/free-events/dublin/imma-festive-explorer-family-2026)
+## [Festive Explorer: free family art workshops at IMMA](https://commons.wikimedia.org/wiki/File:RHKilmainhan.jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Festive Explorer: free family art workshops at IMMA Explore art together and make a festive piece to take home. Venue: Matheson Creativity Hub, IMMA, Royal Hospital Kilmainham, Dublin 8, D08 FW31 When: Sundays 15, 22 and 29 November; 6, 13 and 20 December 2026, 14:00–16:00, as list
+- **Location/details:** Location photograph · Royal Hospital Kilmainham, home of IMMA. · William Murphy · CC BY-SA 2.0 · resized · Photo source · Licence FREE EVENT Dublin Festive Explorer: free family art workshops at IMMA Explore art together and make a festive piece to take home. Venue: Matheson Creativity Hub, IMMA, Ro
 
-## [Fidelio Trio: a free lunchtime concert in Glasnevin](https://freebie.ie/free-events/dublin/botanic-fidelio-trio-nov28-2026)
+## [Fidelio Trio: a free lunchtime concert in Glasnevin](https://commons.wikimedia.org/wiki/File:GlasnevinWM.jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Fidelio Trio: a free lunchtime concert in Glasnevin Hear Steve Reich’s Different Trains at the National Botanic Gardens, with the Fidelio Trio joined by Elizabeth Cooney and Fiona Bonds. This lunchtime performance is the free event within a festival that also includes paid concerts
+- **Location/details:** Location photograph · Glasnevin, Dublin. · William Murphy · CC BY-SA 2.0 · resized · Photo source · Licence FREE EVENT Dublin Fidelio Trio: a free lunchtime concert in Glasnevin Hear Steve Reich’s Different Trains at the National Botanic Gardens, with the Fidelio Trio joined by Elizabeth Cooney and 
 
-## [Free photography workshop for parents and educators at Draíocht](https://freebie.ie/free-events/dublin/draiocht-parent-educator-photography-feb20-2027)
+## [Free photography workshop for parents and educators at Draíocht](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Free photography workshop for parents and educators at Draíocht Explore framing and layering images with artist-educator Liadh Connolly. No photography experience or special equipment is needed, and materials are provided. This workshop is for adults who work with children or young
+- **Location/details:** Location photograph · Draíocht Arts Centre in Blanchardstown, Dublin 15. · Darren J. Prior · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin Free photography workshop for parents and educators at Draíocht Explore framing and layering images with artist-educator Liadh Connolly. No p
 
 ## [Jan Steen: Sacred and Profane | Free Dublin Art Exhibition](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
 - **Category:** entertainment
@@ -92,32 +92,32 @@ Updated: 2026-11-24T18:26:27+00:00
 - **Match score:** 7.75/10
 - **Location/details:** Jan Steen (1626–1679), The Marriage Feast at Cana, 1665–1670. Photo, National Gallery of Ireland. FREE EVENT Dublin Jan Steen: Sacred and Profane | Free Dublin Art Exhibition Discover a free art exhibition in Dublin at the National Gallery of Ireland: Jan Steen’s Sacred and Profane brings together T
 
-## [Sharon Murphy: free photography exhibition at Draíocht](https://freebie.ie/free-events/dublin/draiocht-sharon-murphy-mise-en-abyme-2026)
+## [Sharon Murphy: free photography exhibition at Draíocht](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Sharon Murphy: free photography exhibition at Draíocht Look at how a photograph changes familiar places: Murphy’s images use empty stages, carousels and theatrical spaces. This is a gallery visit, not a theatre performance, so there is no show ticket to buy. Allow time to look clos
+- **Location/details:** Location photograph · Draíocht Arts Centre in Blanchardstown, Dublin 15. · Darren J. Prior · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin Sharon Murphy: free photography exhibition at Draíocht Look at how a photograph changes familiar places: Murphy’s images use empty stages, ca
 
-## [Shooting Stars Choir: free Christmas music at Dublin Airport](https://freebie.ie/free-events/dublin/shooting-stars-choir-dublin-airport-dec20-2026)
+## [Shooting Stars Choir: free Christmas music at Dublin Airport](https://commons.wikimedia.org/wiki/File:T2Dublin_Airport-doyler79.jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Shooting Stars Choir: free Christmas music at Dublin Airport Dunshaughlin’s Shooting Stars Choir welcomes people home with a festive performance in Terminal 2 Arrivals. Venue: Dublin Airport, Terminal 2 Arrivals, Co. Dublin When: 20 December 2026 · 12:30–14:00 Entry: Free performan
+- **Location/details:** Location photograph · Terminal 2 at Dublin Airport. · Doyler79 · CC BY 3.0 · resized · Photo source · Licence FREE EVENT Dublin Shooting Stars Choir: free Christmas music at Dublin Airport Dunshaughlin’s Shooting Stars Choir welcomes people home with a festive performance in Terminal 2 Arrivals. Ven
 
-## [SoCircular Christmas Market at Dublin City Hall](https://freebie.ie/free-events/dublin/dublin-socircular-christmas-market-2026)
+## [SoCircular Christmas Market at Dublin City Hall](https://commons.wikimedia.org/wiki/File:Dublin_City_Hall_2018a.jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin SoCircular Christmas Market at Dublin City Hall Browse local makers and reuse-focused gifts in City Hall, with choir performances during the day. Admission is free; purchases are optional. Venue: Dublin City Hall, Dame Street, Dublin 2, Co. Dublin When: Sunday 6 December 2026, 11:0
+- **Location/details:** Location photograph · City Hall on Dame Street, Dublin. · Antony-22 · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin SoCircular Christmas Market at Dublin City Hall Browse local makers and reuse-focused gifts in City Hall, with choir performances during the day. Admission is free;
 
-## [Song Cycle: free singer-songwriter night at Whelan’s](https://freebie.ie/free-events/dublin/whelans-song-cycle-november-2026)
+## [Song Cycle: free singer-songwriter night at Whelan’s](https://commons.wikimedia.org/wiki/File:Ha'Penny_Bridge_in_Dublin,_Ireland.jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s A songwriter night in Whelan’s front-window bar, hosted by Tony McLoughlin. If you want to perform, ask for Tony from 7:30pm; listeners need no ticket. The event is strictly for over-18s. Venue: 25 Wexford Street, Dublin 2, D02 H
+- **Location/details:** Location photograph · The River Liffey and Ha’penny Bridge, Dublin (2022). · Chris Rycroft · CC BY 2.0 · resized · Photo source · Licence FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s A songwriter night in Whelan’s front-window bar, hosted by Tony McLoughlin. If you want to 
 
-## [We Share This Space: free student photography exhibition](https://freebie.ie/free-events/dublin/draiocht-we-share-this-space-2026)
+## [We Share This Space: free student photography exhibition](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
-- **Location/details:** FREE EVENT Dublin We Share This Space: free student photography exhibition See how Coolmine Community School students responded to Sharon Murphy’s photography through workshops with Andrew Carson. Pair the two exhibitions for a local perspective on the same ideas: the students’ work is their own res
+- **Location/details:** Location photograph · Draíocht Arts Centre in Blanchardstown, Dublin 15. · Darren J. Prior · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin We Share This Space: free student photography exhibition See how Coolmine Community School students responded to Sharon Murphy’s photography 
