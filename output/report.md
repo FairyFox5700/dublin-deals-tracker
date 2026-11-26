@@ -1,6 +1,6 @@
 # Dublin Deals
 
-Updated: 2026-11-25T17:40:55+00:00
+Updated: 2026-11-26T17:24:25+00:00
 
 ## [OSLO Health first yoga, barre or Pilates class free](https://www.oslohealth.ie/welcomeoffer/)
 - **Category:** fitness
@@ -37,6 +37,12 @@ Updated: 2026-11-25T17:40:55+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Michael Ryan (age 11), My Grandad’s Smile. Image supplied by the National Gallery of Ireland. FREE EVENT Dublin AIB Young Portrait Prize 2026: Free Dublin Art Exhibition See free art in Dublin at the AIB Young Portrait Prize 2026 in the National Gallery of Ireland. Discover portraits created by youn
+
+## [Airfield Estate Farmers Market in Dundrum](https://freebie.ie/free-events/dublin/airfield-estate-farmers-market)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** FREE EVENT Dublin Airfield Estate Farmers Market in Dundrum Browse seasonal fruit and preserves from Goode Food Co. or pick up pastries at Sarah’s Natural Kitchen. Fridays also bring fresh fish from Kilmore Seafresh. The market is a short uphill walk from Balally Luas stop. Venue: Airfield Estate, O
 
 ## [Art and babies: free gallery tour at Draíocht](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
 - **Category:** entertainment
@@ -86,11 +92,23 @@ Updated: 2026-11-25T17:40:55+00:00
 - **Match score:** 7.75/10
 - **Location/details:** Location photograph · Draíocht Arts Centre in Blanchardstown, Dublin 15. · Darren J. Prior · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin Free photography workshop for parents and educators at Draíocht Explore framing and layering images with artist-educator Liadh Connolly. No p
 
+## [Henry Street and Mary Street Christmas Market](https://commons.wikimedia.org/wiki/File:Ha'Penny_Bridge_in_Dublin,_Ireland.jpg)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** Location photograph · The River Liffey and Ha’penny Bridge, Dublin (2022). · Chris Rycroft · CC BY 2.0 · resized · Photo source · Licence FREE EVENT Dublin Henry Street and Mary Street Christmas Market Follow the stalls from Henry Street onto Mary Street for seasonal treats and Christmas decorations
+
 ## [Jan Steen: Sacred and Profane | Free Dublin Art Exhibition](https://freebie.ie/free-events/dublin/jan-steen-sacred-and-profane)
 - **Category:** entertainment
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Jan Steen (1626–1679), The Marriage Feast at Cana, 1665–1670. Photo, National Gallery of Ireland. FREE EVENT Dublin Jan Steen: Sacred and Profane | Free Dublin Art Exhibition Discover a free art exhibition in Dublin at the National Gallery of Ireland: Jan Steen’s Sacred and Profane brings together T
+
+## [Richmond Barracks Winter Fair](https://commons.wikimedia.org/wiki/File:Ha'Penny_Bridge_in_Dublin,_Ireland.jpg)
+- **Category:** entertainment
+- **Price:** Free
+- **Match score:** 7.75/10
+- **Location/details:** Location photograph · The River Liffey and Ha’penny Bridge, Dublin (2022). · Chris Rycroft · CC BY 2.0 · resized · Photo source · Licence FREE EVENT Dublin Richmond Barracks Winter Fair Pick up lunch from Little Lucky’s Pizza or browse Corleggy Cheeses and Gourmet Grub Bakery. If you’re staying for 
 
 ## [Sharon Murphy: free photography exhibition at Draíocht](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
 - **Category:** entertainment
@@ -103,21 +121,3 @@ Updated: 2026-11-25T17:40:55+00:00
 - **Price:** Free
 - **Match score:** 7.75/10
 - **Location/details:** Location photograph · Terminal 2 at Dublin Airport. · Doyler79 · CC BY 3.0 · resized · Photo source · Licence FREE EVENT Dublin Shooting Stars Choir: free Christmas music at Dublin Airport Dunshaughlin’s Shooting Stars Choir welcomes people home with a festive performance in Terminal 2 Arrivals. Ven
-
-## [SoCircular Christmas Market at Dublin City Hall](https://commons.wikimedia.org/wiki/File:Dublin_City_Hall_2018a.jpg)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** Location photograph · City Hall on Dame Street, Dublin. · Antony-22 · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin SoCircular Christmas Market at Dublin City Hall Browse local makers and reuse-focused gifts in City Hall, with choir performances during the day. Admission is free;
-
-## [Song Cycle: free singer-songwriter night at Whelan’s](https://commons.wikimedia.org/wiki/File:Ha'Penny_Bridge_in_Dublin,_Ireland.jpg)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** Location photograph · The River Liffey and Ha’penny Bridge, Dublin (2022). · Chris Rycroft · CC BY 2.0 · resized · Photo source · Licence FREE EVENT Dublin Song Cycle: free singer-songwriter night at Whelan’s A songwriter night in Whelan’s front-window bar, hosted by Tony McLoughlin. If you want to 
-
-## [We Share This Space: free student photography exhibition](https://commons.wikimedia.org/wiki/File:Dra%C3%ADocht_Arts_Centre_Blanchardstown_(2019).jpg)
-- **Category:** entertainment
-- **Price:** Free
-- **Match score:** 7.75/10
-- **Location/details:** Location photograph · Draíocht Arts Centre in Blanchardstown, Dublin 15. · Darren J. Prior · CC BY-SA 4.0 · resized · Photo source · Licence FREE EVENT Dublin We Share This Space: free student photography exhibition See how Coolmine Community School students responded to Sharon Murphy’s photography 
